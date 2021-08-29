@@ -42,3 +42,9 @@ body
 {
     background-color: #ccc;
 }
+@media screen and (max-width: 710px) {
+   .piano
+   {
+       width: -webkit-fill-available;
+   } 
+  }
